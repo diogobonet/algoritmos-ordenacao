@@ -9,11 +9,5 @@ public class Main {
         System.out.println("\nMétodos de ordenação:");
         System.out.println("- Método: BUBBLE SORT");
         BubbleSort.ordenar(array1);
-
-        System.out.println("\n- Método: INSERTION SORT");
-        InsertionSort.ordenar(array2);
-
-        System.out.println("\n- Método: QUICK SORT");
-        QuickSort.ordenar(array3);
     }
 }
